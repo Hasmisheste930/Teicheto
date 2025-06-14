@@ -9,9 +9,9 @@
   
 **Profile Views**
 
-<img src="https://profile-counter.glitch.me/BGeorgiev120/count.svg" alt="profile counter">
+<img src="https://profile-counter.glitch.me/Teicheto/count.svg" alt="profile counter">
 
-[![GitHub followers](https://img.shields.io/github/followers/BGeorgiev120?label=Follow&style=social)](https://github.com/BGeorgiev120)
+[![GitHub followers](https://img.shields.io/github/followers/Teicheto?label=Follow&style=social)](https://github.com/Teicheto)
 
 ![](music.svg)
 
