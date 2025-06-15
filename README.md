@@ -37,11 +37,11 @@ Today, I'm a developer who not only writes code but understands it. And more imp
 <summary>📊 GitHub Stats</summary>
 <br>
 
-![Teicheto's GitHub stats](https://github-readme-stats.vercel.app/api?username=BGeorgiev120&show_icons=true&theme=tokyonight)
+![Teicheto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teicheto&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BGeorgiev120&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Teicheto&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BGeorgiev120&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Teicheto&theme=tokyonight)
 
 </details>
 
@@ -69,7 +69,7 @@ Today, I'm a developer who not only writes code but understands it. And more imp
 <summary>🏆 Recent Projects</summary>
 <br>
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=BGeorgiev120&repo=Rock-Paper-Scissors-Python-GUI&theme=tokyonight)](https://github.com/BGeorgiev120/Rock-Paper-Scissors-Python-GUI)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Teicheto&repo=IceMC&theme=tokyonight)](https://github.com/Teicheto/IceMc)
 
 </details>
 
